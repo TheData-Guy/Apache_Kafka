@@ -1,4 +1,4 @@
 # Kafak Assignment
 
 
-![](/images/kafka Assignment/first.png)
+![](/images/kafka_Assignment/first.png)
