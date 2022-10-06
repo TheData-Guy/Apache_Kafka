@@ -8,4 +8,4 @@
 
 ## 2. Creating one Kafka Topic As "Resturant_Take_Away_Data" With 3 Partitions.
 
-![](/images/Second.png)
+![](/images/second.png)
