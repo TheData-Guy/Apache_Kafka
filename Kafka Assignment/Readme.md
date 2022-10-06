@@ -6,4 +6,6 @@
 ![](/images/first.png)
 
 
-## 2.Creating one Kafka Topic As "Resturant_Take_Away_Data" With 3 Partitions.
+## 2. Creating one Kafka Topic As "Resturant_Take_Away_Data" With 3 Partitions.
+
+![](/images/Second.png)
