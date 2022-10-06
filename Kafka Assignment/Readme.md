@@ -1,6 +1,6 @@
 # Kafak Assignment
 
 
-## Setting Up The Apache Kafka Account.
+## 1.Setting Up The Apache Kafka Account.
 
 ![](/images/first.png)
