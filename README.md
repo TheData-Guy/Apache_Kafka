@@ -2,4 +2,4 @@
 Working With Apache Kafka
 
 
-![](/images/)
+![](/images/third.png)
